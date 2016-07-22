@@ -372,5 +372,5 @@ var story = {
   }
  ],
  "title": "user-profile",
- "highlightLinks": false
+ "highlightLinks": true
 }
