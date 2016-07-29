@@ -37,7 +37,7 @@ var story = {
   },
   {
    "image": "uss.png",
-   "width": 1109,
+   "width": 1132,
    "links": [
     {
      "rect": [
@@ -68,7 +68,7 @@ var story = {
     }
    ],
    "title": "uss",
-   "height": 1396
+   "height": 1764
   },
   {
    "image": "account-publicprofile.png",
