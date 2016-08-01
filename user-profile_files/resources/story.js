@@ -2,7 +2,7 @@ var story = {
  "pages": [
   {
    "image": "overview.png",
-   "width": 1109,
+   "width": 1204,
    "links": [
     {
      "rect": [
@@ -20,7 +20,7 @@ var story = {
       364,
       193
      ],
-     "page": 2
+     "page": 3
     },
     {
      "rect": [
@@ -29,15 +29,15 @@ var story = {
       1093,
       104
      ],
-     "page": 6
+     "page": 7
     }
    ],
    "title": "overview",
    "height": 1484
   },
   {
-   "image": "uss.png",
-   "width": 1132,
+   "image": "uss-data.png",
+   "width": 1204,
    "links": [
     {
      "rect": [
@@ -55,7 +55,7 @@ var story = {
       364,
       193
      ],
-     "page": 2
+     "page": 3
     },
     {
      "rect": [
@@ -64,11 +64,64 @@ var story = {
       1093,
       104
      ],
-     "page": 6
+     "page": 7
+    },
+    {
+     "rect": [
+      141,
+      451,
+      272,
+      492
+     ],
+     "page": 2
     }
    ],
-   "title": "uss",
-   "height": 1764
+   "title": "uss-data",
+   "height": 1476
+  },
+  {
+   "image": "uss-apps.png",
+   "width": 1204,
+   "links": [
+    {
+     "rect": [
+      46,
+      147,
+      157,
+      193
+     ],
+     "page": 0
+    },
+    {
+     "rect": [
+      259,
+      147,
+      364,
+      193
+     ],
+     "page": 3
+    },
+    {
+     "rect": [
+      1004,
+      85,
+      1093,
+      104
+     ],
+     "page": 7
+    },
+    {
+     "rect": [
+      60,
+      451,
+      141,
+      492
+     ],
+     "page": 1
+    }
+   ],
+   "title": "uss-apps",
+   "height": 1044
   },
   {
    "image": "account-publicprofile.png",
@@ -99,7 +152,7 @@ var story = {
       277,
       258
      ],
-     "page": 3
+     "page": 4
     },
     {
      "rect": [
@@ -108,7 +161,7 @@ var story = {
       414,
       258
      ],
-     "page": 5
+     "page": 6
     },
     {
      "rect": [
@@ -117,7 +170,7 @@ var story = {
       492,
       258
      ],
-     "page": 4
+     "page": 5
     },
     {
      "rect": [
@@ -126,7 +179,7 @@ var story = {
       1093,
       104
      ],
-     "page": 6
+     "page": 7
     }
    ],
    "title": "account-publicprofile",
@@ -161,7 +214,7 @@ var story = {
       172,
       258
      ],
-     "page": 2
+     "page": 3
     },
     {
      "rect": [
@@ -170,7 +223,7 @@ var story = {
       410,
       258
      ],
-     "page": 5
+     "page": 6
     },
     {
      "rect": [
@@ -179,7 +232,7 @@ var story = {
       488,
       258
      ],
-     "page": 4
+     "page": 5
     },
     {
      "rect": [
@@ -188,7 +241,7 @@ var story = {
       1093,
       104
      ],
-     "page": 6
+     "page": 7
     }
    ],
    "title": "account-settings",
@@ -223,7 +276,7 @@ var story = {
       172,
       258
      ],
-     "page": 2
+     "page": 3
     },
     {
      "rect": [
@@ -232,7 +285,7 @@ var story = {
       277,
       258
      ],
-     "page": 3
+     "page": 4
     },
     {
      "rect": [
@@ -241,7 +294,7 @@ var story = {
       410,
       258
      ],
-     "page": 5
+     "page": 6
     },
     {
      "rect": [
@@ -250,7 +303,7 @@ var story = {
       1093,
       104
      ],
-     "page": 6
+     "page": 7
     }
    ],
    "title": "account-eca",
@@ -285,7 +338,7 @@ var story = {
       172,
       258
      ],
-     "page": 2
+     "page": 3
     },
     {
      "rect": [
@@ -294,7 +347,7 @@ var story = {
       277,
       258
      ],
-     "page": 3
+     "page": 4
     },
     {
      "rect": [
@@ -303,7 +356,7 @@ var story = {
       488,
       258
      ],
-     "page": 4
+     "page": 5
     },
     {
      "rect": [
@@ -312,7 +365,7 @@ var story = {
       1093,
       104
      ],
-     "page": 6
+     "page": 7
     }
    ],
    "title": "account-notifications",
@@ -329,7 +382,7 @@ var story = {
       673,
       680
      ],
-     "page": 7
+     "page": 8
     },
     {
      "rect": [
@@ -355,7 +408,7 @@ var story = {
       1093,
       104
      ],
-     "page": 6
+     "page": 7
     },
     {
      "rect": [
@@ -364,7 +417,7 @@ var story = {
       967,
       1065
      ],
-     "page": 2
+     "page": 3
     }
    ],
    "title": "create-an-account",
