@@ -2,7 +2,7 @@ var story = {
  "pages": [
   {
    "image": "overview.png",
-   "width": 1132,
+   "width": 1109,
    "links": [
     {
      "rect": [
@@ -29,7 +29,7 @@ var story = {
       1088,
       104
      ],
-     "page": 7
+     "page": 9
     }
    ],
    "title": "overview",
@@ -64,7 +64,7 @@ var story = {
       1088,
       104
      ],
-     "page": 7
+     "page": 9
     },
     {
      "rect": [
@@ -81,7 +81,7 @@ var story = {
   },
   {
    "image": "uss-apps.png",
-   "width": 1204,
+   "width": 1126,
    "links": [
     {
      "rect": [
@@ -108,7 +108,7 @@ var story = {
       1088,
       104
      ],
-     "page": 7
+     "page": 9
     },
     {
      "rect": [
@@ -179,7 +179,7 @@ var story = {
       1093,
       104
      ],
-     "page": 7
+     "page": 9
     }
    ],
    "title": "account-publicprofile",
@@ -241,7 +241,7 @@ var story = {
       1093,
       104
      ],
-     "page": 7
+     "page": 9
     }
    ],
    "title": "account-settings",
@@ -303,7 +303,7 @@ var story = {
       1093,
       104
      ],
-     "page": 7
+     "page": 9
     }
    ],
    "title": "account-eca",
@@ -365,10 +365,40 @@ var story = {
       1093,
       104
      ],
-     "page": 7
+     "page": 9
     }
    ],
    "title": "account-notifications",
+   "height": 812
+  },
+  {
+   "image": "reset-password-1.png",
+   "width": 1109,
+   "links": [{
+    "rect": [
+     555,
+     656,
+     619,
+     680
+    ],
+    "page": 9
+   }],
+   "title": "reset-password-1",
+   "height": 812
+  },
+  {
+   "image": "reset-password-2.png",
+   "width": 1109,
+   "links": [{
+    "rect": [
+     410,
+     643,
+     764,
+     687
+    ],
+    "page": 9
+   }],
+   "title": "reset-password-2",
    "height": 812
   },
   {
@@ -382,7 +412,16 @@ var story = {
       673,
       680
      ],
-     "page": 8
+     "page": 10
+    },
+    {
+     "rect": [
+      510,
+      493,
+      663,
+      510
+     ],
+     "page": 7
     },
     {
      "rect": [
@@ -408,7 +447,7 @@ var story = {
       1088,
       104
      ],
-     "page": 7
+     "page": 9
     },
     {
      "rect": [
