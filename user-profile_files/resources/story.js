@@ -374,15 +374,26 @@ var story = {
   {
    "image": "reset-password-1.png",
    "width": 1109,
-   "links": [{
-    "rect": [
-     555,
-     656,
-     619,
-     680
-    ],
-    "page": 9
-   }],
+   "links": [
+    {
+     "rect": [
+      555,
+      656,
+      619,
+      680
+     ],
+     "page": 9
+    },
+    {
+     "rect": [
+      684,
+      619,
+      877,
+      635
+     ],
+     "page": 8
+    }
+   ],
    "title": "reset-password-1",
    "height": 812
   },
