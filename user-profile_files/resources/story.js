@@ -423,7 +423,7 @@ var story = {
       673,
       680
      ],
-     "page": 10
+     "page": 11
     },
     {
      "rect": [
@@ -442,9 +442,33 @@ var story = {
       575
      ],
      "page": 0
+    },
+    {
+     "rect": [
+      716,
+      657,
+      887,
+      691
+     ],
+     "page": 10
     }
    ],
    "title": "sign-in",
+   "height": 812
+  },
+  {
+   "image": "authorize.png",
+   "width": 1109,
+   "links": [{
+    "rect": [
+     986,
+     85,
+     1093,
+     104
+    ],
+    "page": 9
+   }],
+   "title": "authorize",
    "height": 812
   },
   {
