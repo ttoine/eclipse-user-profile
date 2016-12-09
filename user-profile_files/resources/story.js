@@ -30,6 +30,15 @@ var story = {
       104
      ],
      "page": 9
+    },
+    {
+     "rect": [
+      809,
+      155,
+      1079,
+      190
+     ],
+     "page": 12
     }
    ],
    "title": "overview",
@@ -56,15 +65,6 @@ var story = {
       193
      ],
      "page": 3
-    },
-    {
-     "rect": [
-      1004,
-      85,
-      1088,
-      104
-     ],
-     "page": 9
     },
     {
      "rect": [
@@ -496,6 +496,112 @@ var story = {
    ],
    "title": "create-an-account",
    "height": 1124
+  },
+  {
+   "image": "search-quick.png",
+   "width": 1109,
+   "links": [
+    {
+     "rect": [
+      46,
+      147,
+      157,
+      193
+     ],
+     "page": 0
+    },
+    {
+     "rect": [
+      157,
+      147,
+      259,
+      193
+     ],
+     "page": 1
+    },
+    {
+     "rect": [
+      259,
+      147,
+      364,
+      193
+     ],
+     "page": 3
+    },
+    {
+     "rect": [
+      1046,
+      155,
+      1079,
+      190
+     ],
+     "page": 13
+    },
+    {
+     "rect": [
+      986,
+      85,
+      1093,
+      104
+     ],
+     "page": 9
+    }
+   ],
+   "title": "search-quick",
+   "height": 1484
+  },
+  {
+   "image": "search-results.png",
+   "width": 1109,
+   "links": [
+    {
+     "rect": [
+      46,
+      147,
+      157,
+      193
+     ],
+     "page": 0
+    },
+    {
+     "rect": [
+      157,
+      147,
+      259,
+      193
+     ],
+     "page": 1
+    },
+    {
+     "rect": [
+      259,
+      147,
+      364,
+      193
+     ],
+     "page": 3
+    },
+    {
+     "rect": [
+      724,
+      435,
+      769,
+      469
+     ],
+     "page": 0
+    },
+    {
+     "rect": [
+      986,
+      85,
+      1093,
+      104
+     ],
+     "page": 9
+    }
+   ],
+   "title": "search-results",
+   "height": 1196
   }
  ],
  "title": "user-profile",
