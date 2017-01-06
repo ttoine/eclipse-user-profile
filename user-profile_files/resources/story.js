@@ -601,7 +601,7 @@ var story = {
     }
    ],
    "title": "search-results",
-   "height": 1196
+   "height": 1321
   }
  ],
  "title": "user-profile",
