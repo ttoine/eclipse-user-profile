@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>/post/asecondone/</loc>
+    <lastmod>2017-04-10T16:09:39+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/welcome/</loc>
+    <lastmod>2017-04-10T16:06:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2017-04-10T16:09:39+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/loremipsum/</loc>
+    <lastmod>2017-04-10T16:06:16+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/loremipsum/</loc>
+    <lastmod>2017-04-10T16:06:16+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/news/</loc>
+    <lastmod>2017-04-10T16:09:39+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/news/</loc>
+    <lastmod>2017-04-10T16:09:39+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2017-04-10T16:09:39+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2017-04-10T16:06:16+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/test/</loc>
+    <lastmod>2017-04-10T16:09:39+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/test/</loc>
+    <lastmod>2017-04-10T16:09:39+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
